@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "arcadezero"
-version = "0.0.1"
+version = "0.0.2"
 license="MIT"
 description = "A beginner friendly layer on top of Arcade to create your very first game"
 authors = ["Maic Siemering <maic@siemering.tech>"]

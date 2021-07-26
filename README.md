@@ -6,7 +6,7 @@ A beginner friendly layer on top of Arcade to create your very first game.
 > The main focus is to code your first game.
 
 ## Your first game
-![Screenshot](docs/coin_paradise.png)
+![Screenshot](https://github.com/eruvanos/arcadezero/blob/main/docs/coin_paradise.png?raw=true)
 
 
 

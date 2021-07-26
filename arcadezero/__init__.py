@@ -94,6 +94,9 @@ class ZeroSprite:
             if type(zsprite) is cls
         ]
 
+    def rotate(self, angle):
+        self.sprite.angle += angle
+
     def remove(self):
         _Global.all_zsprites.remove(self)
         self.sprite.remove_from_sprite_lists()
